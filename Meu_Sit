@@ -1,0 +1,15 @@
+Meu_Sit/
+│
+├── manage.py
+├── requirements.txt
+├── Meu_Sit/
+│   ├── settings.py
+│   ├── urls.py
+│   ├── wsgi.py
+│   ├── __init__.py
+│
+└── calc/
+    ├── views.py
+    ├── urls.py
+    └── templates/
+        └── calc.html
