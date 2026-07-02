@@ -8,7 +8,7 @@ Meu_Sit/
 │   ├── wsgi.py
 │   ├── __init__.py
 │
-└── calc/
+└── calculadora/
     ├── views.py
     ├── urls.py
     └── templates/
