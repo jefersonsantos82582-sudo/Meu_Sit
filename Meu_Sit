@@ -2,14 +2,26 @@ Meu_Sit/
 │
 ├── manage.py
 ├── requirements.txt
+├── Procfile
+├── db.sqlite3 (opcional)
+│
 ├── Meu_Sit/
+│   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
 │   ├── wsgi.py
-│   ├── __init__.py
+│   └── asgi.py
 │
 └── calculadora/
+    ├── __init__.py
+    ├── admin.py
+    ├── apps.py
+    ├── models.py
+    ├── tests.py
     ├── views.py
     ├── urls.py
+    ├── migrations/
+    │   └── __init__.py
+    │
     └── templates/
-        └── calc.html
+        └── home.html
